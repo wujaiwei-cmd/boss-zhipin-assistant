@@ -1,0 +1,23 @@
+# 本地私密数据（绝对不要提交）
+boss_profile/
+config.json
+profile.json
+error.log
+reports/*
+!reports/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp

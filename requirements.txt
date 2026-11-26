@@ -1,0 +1,2 @@
+DrissionPage>=4.0.4
+psutil>=5.9
